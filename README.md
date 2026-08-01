@@ -4,11 +4,6 @@
 
 <p data-importer="text" align="left">My name is Ali Raza Mujahid. I’m a **React Developer** who obsesses over the fine details. I bridge the gap between design and code by building fluid, responsive, and accessible interfaces.</p>
 
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ###
 

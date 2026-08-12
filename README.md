@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is Ali Raza Mujahid. I’m a **React Developer** who obsesses over the fine details. I bridge the gap between design and code by building fluid, responsive, and accessible interfaces.</p>
+<p data-importer="text" align="left">My name is Ali Raza Mujahid. I’m a **Full Stack Developer** who obsesses over the fine details. I bridge the gap between design and code by building fluid, responsive, and accessible interfaces.</p>
 
 
 ###
@@ -11,7 +11,7 @@
 
 ###
 
-<p data-importer="text" align="left">- 🔭 I’m currently working on **building scalable Web Applications**<br>- 🌱 I’m currently learning **PHP LARVEL Tailwand CSS Node.js & TypeScript**<br>- 👯 I’m looking to collaborate on **Open Source React Projects**<br>- 🤔 I’m looking for help with **Performance Optimization**<br>- 💬 Ask me about **React, Redux, and UI/UX**<br>- 📫 How to reach me: **alirazamujahid102@gmail.com**<br>- ⚡ Fun fact: **I love turning complex designs into pixel-perfect code.**</p>
+<p data-importer="text" align="left">- 🔭 I’m currently working on **building scalable Web Applications**<br>- 🌱 I’m currently learning **Node.js, Express.js & MongoDB**<br>- 👯 I’m looking to collaborate on **Open Source Full Stack Projects**<br>- 🤔 I’m looking for help with **Performance Optimization**<br>- 💬 Ask me about **Lravel, PHP, React, Redux, and UI/UX**<br>- 📫 How to reach me: **alirazamujahid102@gmail.com**<br>- ⚡ Fun fact: **I love turning complex designs into pixel-perfect code.**</p>
 
 ###
 
